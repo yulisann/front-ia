@@ -1,0 +1,21 @@
+h1 {
+    color:rgb(240, 233, 233);
+
+}
+#header {
+    background-color:rgb(240, 175, 211);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+
+}
+#content-chat {
+     background-color:rgb(85, 192, 91);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
