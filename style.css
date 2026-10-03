@@ -3,7 +3,7 @@ h1 {
 
 }
 #header {
-    background-color:rgb(240, 175, 211);
+    background-color:rgb(219, 13, 126);
     height: 60px;
     display: flex;
     align-items: center;
@@ -12,7 +12,7 @@ h1 {
 
 }
 #content-chat {
-     background-color:rgb(85, 192, 91);
+     background-color:rgb(73, 160, 231);
     height: 60px;
     display: flex;
     align-items: center;
